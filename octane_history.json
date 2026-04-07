@@ -18,5 +18,10 @@
         "timestamp": "2026-04-07T05:06:22.519761+00:00",
         "song": "Your Favorite Toy",
         "artist": "Foo Fighters"
+    },
+    {
+        "timestamp": "2026-04-07T05:19:33.368233+00:00",
+        "song": "Kill Me Fast",
+        "artist": "Three Days Grace"
     }
 ]
